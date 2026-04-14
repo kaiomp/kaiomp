@@ -49,6 +49,25 @@
 </tr>
 </table>
 
+### AI
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=fff" /><br/>
+  <img src="https://img.shields.io/badge/Voyage_AI-1A1A1A?style=flat" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Whisper-74AA9C?style=flat" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=fff" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Chroma-FF4F00?style=flat" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=fff" />
+</p>
+
 ### Main Stack
 
 <p>
