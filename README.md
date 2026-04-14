@@ -49,14 +49,14 @@
 </tr>
 </table>
 
-### Stack
+### Main Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,rust,swift,kotlin,cs,bash" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,docker,postgres,sqlite,redis,vercel" />
 </p>
 
-### Trading & markets
+### Markets
 
 <p>
   <img src="https://img.shields.io/badge/Pine_Script-2962FF?style=flat&logo=tradingview&logoColor=fff" />
