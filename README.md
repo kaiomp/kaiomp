@@ -8,7 +8,7 @@
 
 ---
 
-### Projects
+### Selected Projects
 
 <table>
 <tr>
