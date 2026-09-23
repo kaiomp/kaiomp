@@ -12,24 +12,24 @@
 
 <table>
 <tr>
+<td width="56"><img src="assets/kmp.png" width="48" /></td>
+<td><a href="https://kmp.solutions"><b>KMP Solutions</b></a> · software &amp; AI consultancy, 100+ client projects: trading and exchange systems, Solana &amp; EVM, AI agents, full-stack platforms</td>
+</tr>
+<tr>
+<td width="56"><img src="assets/flykit.svg" width="48" /></td>
+<td><a href="https://flykit.cc"><b>flykit</b></a> · open-source cockpit for agentic development: Claude Code, Pi and Codex side by side · <a href="https://flykit.cc">flykit.cc</a> · <a href="https://github.com/flykit-cc">GitHub</a></td>
+</tr>
+<tr>
 <td width="56"><img src="assets/earthflix.png" width="48" /></td>
-<td><a href="https://earthflix.com"><b>Earthflix</b></a> · impact streaming. Every view funds verified nonprofit work. <em>Q2 2026.</em></td>
+<td><a href="https://earthflix.com"><b>Earthflix</b></a> · impact streaming. Every view funds verified nonprofit work.</td>
 </tr>
 <tr>
 <td><img src="assets/nova.svg" width="48" /></td>
-<td><a href="https://github.com/get-nova"><b>Nova</b></a> · personal AI assistant — long-running, cross-device, memory-backed.</td>
-</tr>
-<tr>
-<td><img src="assets/flykit.svg" width="48" /></td>
-<td><a href="https://github.com/flykit-cc/flykit"><b>flykit</b></a> · open-source Claude Code plugin marketplace · <a href="https://flykit.cc">flykit.cc</a></td>
-</tr>
-<tr>
-<td><img src="assets/kmp.png" width="48" /></td>
-<td><a href="https://kmp.solutions"><b>KMP Solutions</b></a> · fintech systems: HFT, exchange infra, DeFi</td>
+<td><a href="https://getnova.one"><b>Nova</b></a> · autonomous AI agent for your operations: lives in your team's channels, runs a full toolset in a secure sandbox, acts on your systems 24/7 · <a href="https://getnova.one">getnova.one</a></td>
 </tr>
 <tr>
 <td><img src="assets/bonsai.png" width="48" /></td>
-<td><a href="https://bonsai.trade"><b>Bonsai</b></a> · TradingView-integrated strategy suite</td>
+<td><a href="https://bonsai.trade"><b>Bonsai</b></a> · algorithmic indicators and real-time trading signals for TradingView, grown to 1,500+ monthly active users. Acquired in 2025.</td>
 </tr>
 <tr>
 <td><img src="assets/superhook.png" width="48" /></td>
@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td><img src="assets/fileparty.svg" width="48" /></td>
-<td><a href="https://fileparty.cc"><b>fileparty</b></a> · browser-native file tools</td>
+<td><a href="https://fileparty.cc"><b>fileparty</b></a> · local-first file tools that run in your browser: PDF, image compression, background removal, OCR, transcription, video. Your files never leave the tab.</td>
 </tr>
 <tr>
 <td><img src="assets/kaiomusic.svg" width="48" /></td>
@@ -71,8 +71,9 @@
 ### Main Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,swift,kotlin,cs,bash" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,docker,postgres,sqlite,redis,vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,cpp,cs,swift,kotlin,bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,bun,fastapi,dotnet,tailwind,tauri,graphql" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,kafka,rabbitmq,docker,kubernetes,terraform,aws,grafana,vercel" />
 </p>
 
 ### Markets
@@ -94,6 +95,23 @@
   <img src="https://img.shields.io/badge/Alpaca-F5B400?style=flat" />
   <img src="https://img.shields.io/badge/Interactive_Brokers-D81921?style=flat" />
   <img src="https://img.shields.io/badge/ccxt-111?style=flat" />
+</p>
+
+### On-chain
+
+<p>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Anchor-512DA8?style=flat" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Base-0052FF?style=flat" />
+  <img src="https://img.shields.io/badge/Arbitrum-2D374B?style=flat" />
+  <img src="https://img.shields.io/badge/Hyperliquid-0A2A2A?style=flat" />
+  <img src="https://img.shields.io/badge/Uniswap-FF007A?style=flat&logo=uniswap&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Jupiter-1A1A1A?style=flat" />
+  <img src="https://img.shields.io/badge/viem-1E1E20?style=flat" />
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat" />
+  <img src="https://img.shields.io/badge/Fireblocks-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Privy-000000?style=flat" />
 </p>
 
 ### AWS
@@ -124,7 +142,7 @@
 
 ---
 
-writing at [kaio.mp](https://kaio.mp)
+writing at [kaio.mp](https://kaio.mp) · [LinkedIn](https://www.linkedin.com/in/kaiomp) · [hi@kaio.mp](mailto:hi@kaio.mp)
 
-`2,500+ contributions / year · 84 repos · always building`
+`5,600+ contributions / year · 85 repos · always building`
 
