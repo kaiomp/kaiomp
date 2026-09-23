@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="56"><img src="assets/kmp.png" width="48" /></td>
-<td><a href="https://kmp.solutions"><b>KMP Solutions</b></a> · software &amp; AI consultancy, 100+ client projects: trading and exchange systems, Solana &amp; EVM, AI agents, full-stack platforms</td>
+<td><a href="https://kmp.solutions"><b>KMP Solutions</b></a> · software &amp; AI consultancy, 100+ client projects: market infrastructure and exchanges, Solana &amp; EVM, applied AI for financial systems, full-stack platforms</td>
 </tr>
 <tr>
 <td width="56"><img src="assets/flykit.svg" width="48" /></td>
